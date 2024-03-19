@@ -1,2 +1,3 @@
 # nextjs-learn
-https://nextjs.org/learn/dashboard-app
+
+<https://nextjs.org/learn/react-foundations>
